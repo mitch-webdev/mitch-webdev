@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael, WebHosting support specialist
+- 👋 Hi, I’m Michael, currently working as a Web Hosting Support specialist
 - 👀 I’m interested in all type of WebDev an am planning on becoming a Freelance Web Developer
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 📫 You can reach me at michael.business1502@gmail.com

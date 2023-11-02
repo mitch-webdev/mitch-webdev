@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Michael, currently working as a Web Hosting Support specialist
+- 👋 Hi, I’m Michael, currently working as Linux System Administrator
 - 👀 I’m interested in Linux administration and all type of Web Development that involves Linux
-- 🌱 I’m currently learning Docker, Bash and Python
-- 📫 You can reach me at michael.business1502@gmail.com
+- 🌱 I’m currently learning Puppet, Docker and Python
 
 <!---
 mitch-webdev/mitch-webdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

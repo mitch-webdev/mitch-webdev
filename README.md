@@ -1,8 +1,21 @@
-- 👋 Hi, I’m Michael, currently working as Linux System Administrator
-- 👀 I’m interested in Linux administration and all type of Web Development that involves Linux
-- 🌱 I’m currently learning Puppet, Docker and Python
+# 👋 Hey there, I'm Michael!  
 
-<!---
-mitch-webdev/mitch-webdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Linux System Administrator | DevOps Enthusiast | Web Infrastructure Specialist**  
+
+I work as a **Linux System Administrator**, managing servers, optimizing infrastructure, and automating deployments. I’m passionate about everything related to **Linux, automation, web hosting, and cloud technologies**.  
+
+## 🔧 What I Do  
+- 🖥️ **Server Administration** – Managing Linux servers, optimizing performance, and securing infrastructure.  
+- ⚙️ **Automation & DevOps** – Using **Puppet, Docker, and Kubernetes** to automate deployments.  
+- 🌍 **Web Hosting & Cloud** – Working with **Apache, Nginx, MySQL, MariaDB, and AWS (S3, EC2, RDS, etc.)**.  
+- 🛠️ **Monitoring & Security** – Using **Nagios, Icinga2**, and custom scripts to keep systems running smoothly.  
+
+## 🌱 What I'm Learning  
+- 🐍 **Python** – For automation and web development.  
+- ☸️ **Kubernetes** – Container orchestration for scalable infrastructure.  
+- 🔐 **Security Best Practices** – Implementing **multi-factor authentication (MFA), DDoS mitigation, and hardening Linux servers**.  
+
+## 📫 Let's Connect!  
+If you're into **Linux, DevOps, or automation**, feel free to check out my repositories, ask questions, or collaborate on a project.  
+
+🚀 Always learning, always building.  
